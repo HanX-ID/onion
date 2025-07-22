@@ -1,6 +1,6 @@
-## Panduan Membuat Web .onion Pribadi dengan Tor
+## Panduan membuat web .onion pribadi dengan Tor
 
-Repositori ini berisi panduan lengkap untuk membuat dan menjalankan website `.onion` pribadi menggunakan Tor Hidden Service. Cocok dijalankan di Termux (Android) atau di server Linux/VPS.
+Panduan lengkap untuk membuat dan menjalankan website `.onion` pribadi menggunakan Tor Hidden Service. Cocok dijalankan di Termux (Android) atau di server Linux/VPS.
 
 ---
 
